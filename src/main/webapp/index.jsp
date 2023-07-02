@@ -6,6 +6,7 @@
    <body>
 
      <h2> Which one will it be for you today? </h2><br/>
+      <h2> You want to try the game? </h2><br/>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
       <a href="#" onclick="playRoshambo('paper')"> paper </a>
       <a href="#" onclick="playRoshambo('scissors')"> scissors </a>
